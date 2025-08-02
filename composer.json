@@ -1,5 +1,5 @@
 {
-  "name": "mojifan/yii2-predis",
+  "name": "zkc/yii2-predis",
   "description": "Redis Cache, Session for the Yii2",
   "type": "yii2-extension",
   "license": "MIT",
